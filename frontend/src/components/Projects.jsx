@@ -11,7 +11,7 @@ const Projects = () => {
       highlights: ['25% Latency Reduction', '30% Accuracy Improvement'],
       tech: ['LLMs', 'FAISS', 'Node.js', 'Docker', 'REST APIs'],
       github: 'https://github.com/AshCodes23/Agentic-RAG-System-with-Local-LLMs-Document-Grounded-Question-Answering-.git',
-      demo: 'https://demo.com'
+      demo: 'https://rag-deploy-umber.vercel.app/'
     },
     {
       title: 'Deepfake Detection System',
