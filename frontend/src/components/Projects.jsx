@@ -6,7 +6,7 @@ const Projects = () => {
   const projects = [
     {
       title: 'Agentic RAG System',
-      duration: 'Jan 2025 – Feb 2025',
+      duration: 'Jan 2026 – Feb 2026',
       description: 'Engineered a backend system using LLMs and FAISS for semantic retrieval across 400+ embeddings. Built RESTful APIs and modular microservices for real-time query processing.',
       highlights: ['25% Latency Reduction', '30% Accuracy Improvement'],
       tech: ['LLMs', 'FAISS', 'Node.js', 'Docker', 'REST APIs'],
@@ -15,7 +15,7 @@ const Projects = () => {
     },
     {
       title: 'Deepfake Detection System',
-      duration: 'Nov 2024 – Dec 2024',
+      duration: 'Nov 2025 – Dec 2025',
       description: 'Developed a CNN-LSTM pipeline for video classification on 10k+ frames. Achieved 96% accuracy through hyperparameter tuning and optimization.',
       highlights: ['96% Accuracy', '10k+ Frames Processed'],
       tech: ['CNN-LSTM', 'TensorFlow', 'OpenCV', 'Python'],
