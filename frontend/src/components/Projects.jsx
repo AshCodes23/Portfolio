@@ -10,7 +10,7 @@ const Projects = () => {
       description: 'Engineered a backend system using LLMs and FAISS for semantic retrieval across 400+ embeddings. Built RESTful APIs and modular microservices for real-time query processing.',
       highlights: ['25% Latency Reduction', '30% Accuracy Improvement'],
       tech: ['LLMs', 'FAISS', 'Node.js', 'Docker', 'REST APIs'],
-      github: 'https://github.com',
+      github: 'https://github.com/AshCodes23/Agentic-RAG-System-with-Local-LLMs-Document-Grounded-Question-Answering-.git',
       demo: 'https://demo.com'
     },
     {
@@ -19,7 +19,7 @@ const Projects = () => {
       description: 'Developed a CNN-LSTM pipeline for video classification on 10k+ frames. Achieved 96% accuracy through hyperparameter tuning and optimization.',
       highlights: ['96% Accuracy', '10k+ Frames Processed'],
       tech: ['CNN-LSTM', 'TensorFlow', 'OpenCV', 'Python'],
-      github: 'https://github.com',
+      github: 'https://github.com/AshCodes23/Deepfake_Detection_System-Using-Deep-Learning.git',
       demo: 'https://demo.com'
     },
     {
@@ -28,7 +28,7 @@ const Projects = () => {
       description: 'Built a real-time system (30 FPS) for pose detection using computer vision. Designed efficient pipeline for continuous video stream processing.',
       highlights: ['30 FPS Real-time', '25% Accuracy Improvement'],
       tech: ['Computer Vision', 'Pose Detection', 'OpenCV'],
-      github: 'https://github.com',
+      github: 'https://github.com/AshCodes23/AI-Exercise-Pose-Correction-using-ML.git',
       demo: 'https://demo.com'
     },
     {
