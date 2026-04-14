@@ -31,10 +31,10 @@ const Navbar = () => {
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
-          <div className="flex-shrink-0 font-bold text-2xl tracking-tighter cursor-pointer">
+          <div className="flex-shrink-0 font-bold text-2xl tracking-tighter cursor-pointer mt-1">
             <span className="text-slate-100">&lt;</span>
-            <span className="gradient-text">dev</span>
-            <span className="text-slate-100">/&gt;</span>
+            <span className="gradient-text">Ashmit</span>
+            <span className="text-slate-100"> /&gt;</span>
           </div>
           
           <div className="hidden md:block">
